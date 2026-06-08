@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="favicon-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#9333EA" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#favicon-grad)" />
+  <path d="M190 140h85c55 0 95 40 95 90s-40 90-95 90h-45v60h-40V140zm40 140h45c30 0 55-20 55-50s-25-50-55-50h-45v100z" fill="#ffffff"/>
+</svg>
