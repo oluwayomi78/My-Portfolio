@@ -29,7 +29,7 @@ The source code is organized as follows:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/oluwayomi78/My-Portfolio
    ```
 
 2. Navigate to the project directory:
